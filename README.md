@@ -1,2 +1,2 @@
 # CatogramX
-A small site for the best telegram client written in ≈ 2 hours
+A small site for the telegram client written in ≈ 2 hours
